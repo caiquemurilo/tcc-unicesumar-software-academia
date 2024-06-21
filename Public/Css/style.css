@@ -11,9 +11,10 @@ ul {
 }
 
 /* header */
-.header {
+#header {
   display: flex;
   justify-content: space-around;
+  padding-block: 1vh;
   background-color: rgb(237, 117, 6);
 }
 
@@ -28,4 +29,15 @@ ul {
 
 #dropdownMenuLink {
   color: black;
+}
+
+/* Footer */
+
+#footer {
+  position: fixed;
+  bottom: 0;
+  background-color: rgb(237, 117, 6);
+  width: 100%;
+  text-align: center;
+  padding-top: 1vh;
 }
