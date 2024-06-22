@@ -84,3 +84,14 @@ ul {
 .row-atividades {
   margin-block: 3vh;
 }
+
+/* page details */
+.wrap-details {
+  width: 60%;
+  margin: 3vh auto 0 auto;
+  /* background-color: red; */
+}
+
+.card-details {
+  background-color: rgb(237, 209, 172);
+}
