@@ -71,3 +71,16 @@ ul {
 .form-register {
   padding: 5%;
 }
+
+/* page home */
+.title-home {
+  text-align: center;
+  margin-top: 2vh;
+}
+.wrap-atividades {
+  padding: 3vh 3vw 3vh 3vw;
+}
+
+.row-atividades {
+  margin-block: 3vh;
+}
