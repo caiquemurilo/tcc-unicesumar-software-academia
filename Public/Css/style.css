@@ -41,3 +41,22 @@ ul {
   text-align: center;
   padding-top: 1vh;
 }
+
+/* page login */
+.form-group {
+  width: 30%;
+  margin-inline: auto;
+}
+
+.form-group:first-child {
+  margin-top: 20vh;
+}
+.form-check {
+  width: 30%;
+  margin: 0 auto 0px auto;
+}
+
+.button-login {
+  width: 30%;
+  margin-inline: auto;
+}
