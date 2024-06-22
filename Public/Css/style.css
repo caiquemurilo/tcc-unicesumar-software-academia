@@ -43,15 +43,15 @@ ul {
 }
 
 /* page login */
-.form-group {
+.form-group-login {
   width: 30%;
   margin-inline: auto;
 }
 
-.form-group:first-child {
+.form-group-login:first-child {
   margin-top: 20vh;
 }
-.form-check {
+.form-check-login {
   width: 30%;
   margin: 0 auto 0px auto;
 }
@@ -60,3 +60,5 @@ ul {
   width: 30%;
   margin-inline: auto;
 }
+
+/* page register */
