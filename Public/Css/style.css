@@ -43,14 +43,16 @@ ul {
 }
 
 /* page login */
+.title-login {
+  margin-top: 20vh;
+  width: 30%;
+  margin-inline: auto;
+}
 .form-group-login {
   width: 30%;
   margin-inline: auto;
 }
 
-.form-group-login:first-child {
-  margin-top: 20vh;
-}
 .form-check-login {
   width: 30%;
   margin: 0 auto 0px auto;
