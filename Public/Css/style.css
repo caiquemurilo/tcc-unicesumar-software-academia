@@ -62,7 +62,10 @@ ul {
 }
 
 /* page register */
-
+.title-register {
+  text-align: center;
+  margin-top: 2vh;
+}
 .form-register {
   padding: 5%;
 }
